@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "packageManager": "yarn@1.22.2",
+  "scripts": {
+    "build": "cp in.txt out.txt"
+  },
+  "devDependencies": {
+    "turbo": "^2.3.3"
+  }
+}
